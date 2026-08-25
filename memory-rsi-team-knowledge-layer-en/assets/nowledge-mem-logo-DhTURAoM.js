@@ -1,0 +1,1 @@
+var e=`/talks/memory-rsi-team-knowledge-layer-en/assets/nowledge-labs-icon-DgxVgyMa.png`,t=`/talks/memory-rsi-team-knowledge-layer-en/assets/nowledge-mem-logo-D9N8ZFmP.webp`;export{e as n,t};
