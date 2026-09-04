@@ -1,0 +1,1 @@
+var e=`/talks/pycon-2026/assets/nowledge-labs-icon-DgxVgyMa.png`,t=`/talks/pycon-2026/assets/nowledge-mem-logo-D9N8ZFmP.webp`;export{e as n,t};
