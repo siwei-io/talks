@@ -1,0 +1,1 @@
+var e=`/talks/ai-dot-engineer/assets/nowledge-labs-icon-DgxVgyMa.png`,t=`/talks/ai-dot-engineer/assets/nowledge-mem-logo-D9N8ZFmP.webp`;export{e as n,t};
