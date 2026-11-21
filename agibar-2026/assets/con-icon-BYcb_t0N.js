@@ -1,0 +1,1 @@
+var e=`/talks/agibar-2026/assets/con-icon-jsqqV4Zo.png`;export{e as t};

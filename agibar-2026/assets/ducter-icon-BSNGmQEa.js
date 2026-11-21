@@ -1,0 +1,1 @@
+var e=`/talks/agibar-2026/assets/ducter-icon-D2XQ2jOy.png`;export{e as t};

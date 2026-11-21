@@ -1,0 +1,1 @@
+var e=`/talks/agibar-2026/assets/kipchoge-159-finish-C2W1Dw1X.webp`;export{e as t};
